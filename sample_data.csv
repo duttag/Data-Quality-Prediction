@@ -1,0 +1,151 @@
+Creator	Source	Duration (sec)	Location	Day of Week	Time(HHMM)	Date (YYYYMMDD)	Label
+Charlie	Manual_Entry	2388	London	Thursday	0418	20230601	0
+Delta_Bot	API	2498	London	Friday	1210	20230804	1
+Bob	Manual_Entry	1779	London	Sunday	2322	20230101	1
+Bob	API	2742	New York	Sunday	2000	20230806	1
+Charlie	Web_Scraper	628	London	Thursday	1920	20230511	0
+Bob	Web_Scraper	1955	London	Sunday	2358	20230917	1
+Charlie	Web_Scraper	128	New York	Tuesday	1818	20231024	0
+Bob	Manual_Entry	3270	Mumbai	Tuesday	0409	20230221	1
+Delta_Bot	Web_Scraper	671	Mumbai	Thursday	2005	20230720	0
+Delta_Bot	Web_Scraper	1648	Mumbai	Tuesday	1255	20231128	0
+Bob	Web_Scraper	1054	Remote	Saturday	1125	20230211	1
+Bob	Manual_Entry	1872	New York	Tuesday	1949	20230815	1
+Alice	API	2112	London	Friday	0711	20230825	1
+Bob	Web_Scraper	1371	London	Tuesday	0608	20230905	1
+Delta_Bot	Web_Scraper	1160	New York	Saturday	1617	20230128	0
+Bob	API	905	Mumbai	Sunday	1542	20231210	1
+Alice	Web_Scraper	2829	Remote	Friday	1920	20230224	1
+Delta_Bot	Web_Scraper	1635	Mumbai	Sunday	2350	20230423	0
+Alice	Web_Scraper	2199	Remote	Saturday	1004	20230415	1
+Delta_Bot	API	683	Mumbai	Sunday	0905	20230219	0
+Charlie	Manual_Entry	564	Mumbai	Tuesday	2257	20230530	1
+Delta_Bot	Manual_Entry	1358	London	Tuesday	1147	20231114	0
+Alice	API	1851	Mumbai	Wednesday	0746	20230816	1
+Bob	Manual_Entry	3575	Mumbai	Tuesday	2100	20230124	1
+Delta_Bot	Web_Scraper	1976	Remote	Thursday	0317	20230126	0
+Alice	Web_Scraper	314	London	Thursday	1933	20231102	1
+Alice	Web_Scraper	1928	London	Sunday	0609	20231203	0
+Charlie	Manual_Entry	492	Mumbai	Thursday	0056	20230223	1
+Alice	Manual_Entry	1300	London	Thursday	1955	20231109	1
+Alice	Manual_Entry	1221	New York	Thursday	1851	20230202	1
+Charlie	Web_Scraper	2222	Remote	Thursday	1936	20230223	0
+Bob	Web_Scraper	1575	Remote	Thursday	0935	20230727	0
+Alice	Web_Scraper	239	Remote	Thursday	1933	20231221	0
+Delta_Bot	Web_Scraper	3477	Remote	Sunday	2342	20230618	0
+Alice	Manual_Entry	2395	Mumbai	Saturday	0859	20230701	0
+Delta_Bot	API	2766	New York	Thursday	2212	20230518	0
+Alice	Manual_Entry	304	New York	Wednesday	2151	20230510	0
+Charlie	API	1197	New York	Tuesday	0804	20230725	1
+Delta_Bot	API	1611	New York	Sunday	0559	20230115	0
+Alice	Web_Scraper	3437	New York	Sunday	1211	20230115	1
+Charlie	API	1168	London	Tuesday	1033	20230117	1
+Charlie	Web_Scraper	600	Remote	Monday	0600	20230227	1
+Charlie	Manual_Entry	516	London	Wednesday	1315	20230906	1
+Bob	Web_Scraper	754	Remote	Sunday	0407	20230430	1
+Charlie	API	399	London	Thursday	0852	20231207	1
+Delta_Bot	API	1104	Remote	Tuesday	1315	20230613	0
+Bob	Web_Scraper	231	New York	Saturday	1810	20230715	0
+Charlie	API	871	New York	Sunday	0606	20230507	1
+Bob	Web_Scraper	1733	London	Friday	1603	20231020	1
+Delta_Bot	API	2258	New York	Tuesday	0447	20231017	0
+Bob	Manual_Entry	2927	New York	Saturday	1512	20230916	1
+Charlie	Web_Scraper	1102	Remote	Saturday	0820	20230107	0
+Bob	Manual_Entry	2003	Mumbai	Friday	1157	20230901	0
+Alice	API	653	Remote	Thursday	0524	20230601	1
+Charlie	Manual_Entry	247	London	Friday	1153	20230512	0
+Alice	Web_Scraper	825	Mumbai	Tuesday	0435	20230815	0
+Bob	API	1558	Mumbai	Saturday	0541	20230617	1
+Charlie	Manual_Entry	3571	Mumbai	Sunday	2237	20231210	1
+Charlie	API	630	New York	Thursday	0657	20230223	1
+Charlie	Web_Scraper	2288	New York	Wednesday	0537	20230125	1
+Alice	API	3536	Mumbai	Saturday	0412	20230304	1
+Bob	Manual_Entry	180	Mumbai	Thursday	1029	20230706	1
+Delta_Bot	Manual_Entry	1633	New York	Monday	1846	20230925	0
+Charlie	Web_Scraper	739	Mumbai	Friday	1427	20230707	0
+Delta_Bot	API	3399	New York	Saturday	0049	20230415	0
+Delta_Bot	Manual_Entry	216	Remote	Friday	0516	20231027	0
+Delta_Bot	Manual_Entry	2437	New York	Wednesday	2150	20230503	0
+Bob	Web_Scraper	1093	Mumbai	Monday	0004	20230213	1
+Delta_Bot	Web_Scraper	2887	Remote	Tuesday	1011	20230613	0
+Charlie	Web_Scraper	2988	London	Thursday	0144	20230420	0
+Delta_Bot	Web_Scraper	559	Mumbai	Monday	1736	20230710	0
+Delta_Bot	Web_Scraper	3459	Mumbai	Thursday	1113	20231116	0
+Delta_Bot	Manual_Entry	1319	London	Friday	1315	20231124	0
+Charlie	API	803	New York	Sunday	1718	20230122	1
+Bob	Manual_Entry	216	Remote	Tuesday	1711	20231031	0
+Charlie	Manual_Entry	2916	New York	Tuesday	2320	20230725	1
+Delta_Bot	Web_Scraper	3569	New York	Sunday	0833	20230806	0
+Delta_Bot	Manual_Entry	755	Mumbai	Friday	0220	20231117	0
+Charlie	Web_Scraper	2337	Remote	Friday	1809	20231222	0
+Alice	API	1345	New York	Wednesday	0054	20231227	1
+Alice	API	2703	New York	Saturday	0431	20230701	1
+Charlie	Web_Scraper	1450	New York	Sunday	1115	20230430	1
+Delta_Bot	Manual_Entry	1158	New York	Friday	0804	20230602	0
+Charlie	Manual_Entry	484	Remote	Friday	0139	20231103	1
+Alice	Manual_Entry	2037	New York	Saturday	0739	20230311	0
+Alice	Manual_Entry	242	Mumbai	Wednesday	1952	20230614	1
+Alice	Manual_Entry	2585	Mumbai	Friday	2003	20230407	1
+Alice	Web_Scraper	3429	London	Saturday	0259	20231209	1
+Delta_Bot	Web_Scraper	2802	New York	Wednesday	0814	20231101	0
+Alice	Manual_Entry	252	Remote	Wednesday	1333	20230816	1
+Charlie	Manual_Entry	1431	Mumbai	Thursday	1734	20230323	1
+Alice	API	2338	London	Sunday	1329	20230625	1
+Delta_Bot	API	2659	London	Saturday	2243	20230527	0
+Delta_Bot	API	1567	Mumbai	Saturday	1243	20230325	0
+Alice	Web_Scraper	2448	Remote	Sunday	2330	20230723	1
+Delta_Bot	Web_Scraper	293	Mumbai	Wednesday	1926	20231011	0
+Charlie	Manual_Entry	2269	Mumbai	Tuesday	2312	20230808	0
+Charlie	API	669	New York	Friday	1222	20230127	1
+Delta_Bot	API	2523	Remote	Saturday	0350	20230708	0
+Bob	Web_Scraper	2229	Mumbai	Tuesday	1731	20230124	1
+Bob	Manual_Entry	1541	Mumbai	Monday	0714	20231002	0
+Bob	Manual_Entry	1063	Remote	Friday	0801	20231201	1
+Delta_Bot	API	1749	Mumbai	Monday	1736	20230828	0
+Alice	Manual_Entry	2282	London	Sunday	1412	20230423	1
+Charlie	API	2683	New York	Monday	1515	20230227	1
+Bob	API	1495	New York	Monday	2310	20230904	1
+Charlie	Web_Scraper	3557	Remote	Monday	1923	20230213	1
+Bob	Manual_Entry	409	New York	Saturday	0514	20231125	1
+Alice	API	2601	Remote	Thursday	2306	20231019	1
+Charlie	API	1929	London	Thursday	1051	20230608	1
+Bob	API	3311	New York	Sunday	1901	20231231	1
+Delta_Bot	Manual_Entry	220	Remote	Saturday	2032	20231028	0
+Delta_Bot	API	3089	Remote	Tuesday	0657	20230124	0
+Alice	Manual_Entry	449	Remote	Tuesday	2324	20231212	1
+Charlie	Web_Scraper	261	Mumbai	Saturday	1457	20230325	0
+Alice	Web_Scraper	1342	Remote	Friday	0643	20230120	1
+Alice	Manual_Entry	1430	Remote	Saturday	0248	20230415	0
+Alice	API	463	London	Sunday	0103	20230827	1
+Charlie	Manual_Entry	1855	London	Wednesday	0840	20230405	0
+Alice	Web_Scraper	34	Mumbai	Tuesday	1507	20231114	1
+Delta_Bot	Manual_Entry	1184	London	Saturday	1913	20230722	0
+Delta_Bot	Manual_Entry	2142	New York	Sunday	0028	20230604	0
+Bob	API	1980	Mumbai	Saturday	0025	20231223	1
+Charlie	API	459	Remote	Sunday	1054	20230514	1
+Delta_Bot	Manual_Entry	2382	New York	Wednesday	0731	20230215	0
+Bob	Web_Scraper	1679	Remote	Wednesday	1613	20230104	1
+Charlie	API	702	Remote	Sunday	1306	20231231	1
+Delta_Bot	API	2521	New York	Saturday	1004	20230304	0
+Charlie	Manual_Entry	689	Remote	Thursday	0700	20230209	0
+Charlie	API	1732	Mumbai	Friday	0358	20230707	1
+Charlie	API	1199	New York	Thursday	0245	20231207	1
+Charlie	Manual_Entry	3239	Mumbai	Thursday	2345	20230223	0
+Alice	API	1958	New York	Tuesday	1831	20230801	1
+Bob	Manual_Entry	971	Mumbai	Wednesday	0048	20231206	1
+Alice	API	2852	Remote	Wednesday	1631	20230816	1
+Alice	API	2008	Remote	Sunday	0917	20230212	1
+Bob	API	2063	Remote	Friday	2258	20230310	1
+Bob	Web_Scraper	1307	Mumbai	Wednesday	0507	20231220	1
+Delta_Bot	API	2604	New York	Wednesday	0457	20230419	0
+Bob	Manual_Entry	469	London	Saturday	1708	20230902	1
+Bob	API	881	London	Wednesday	0004	20230823	1
+Bob	Web_Scraper	3123	London	Sunday	2356	20231022	0
+Charlie	Manual_Entry	2518	London	Wednesday	1234	20230215	1
+Bob	API	314	New York	Thursday	1007	20230126	1
+Bob	Manual_Entry	1620	New York	Tuesday	0831	20230516	1
+Bob	API	3495	New York	Sunday	1149	20230319	1
+Charlie	Manual_Entry	2309	London	Saturday	1542	20231007	1
+Bob	Web_Scraper	1152	Remote	Tuesday	2304	20231205	0
+Delta_Bot	Manual_Entry	713	Remote	Thursday	0018	20230518	0
+Charlie	Web_Scraper	1082	Mumbai	Wednesday	1648	20230222	1

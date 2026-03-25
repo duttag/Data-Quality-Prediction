@@ -1,0 +1,51 @@
+Creator	Source	Duration (sec)	Location	Day of Week	Time(HHMM)	Date (YYYYMMDD)
+Alice	Manual_Entry	1595	Remote	Tuesday	0846	20230502
+Alice	API	2173	New York	Friday	0807	20230428
+Delta_Bot	Web_Scraper	129	Remote	Tuesday	0742	20231121
+Alice	Web_Scraper	2806	Remote	Thursday	0238	20230914
+Alice	Manual_Entry	3571	Remote	Sunday	2148	20231029
+Delta_Bot	API	1118	London	Friday	0351	20230519
+Bob	Web_Scraper	2204	London	Tuesday	1837	20230110
+Alice	Web_Scraper	2292	Mumbai	Sunday	0356	20230820
+Alice	Web_Scraper	850	New York	Tuesday	1650	20230801
+Delta_Bot	Manual_Entry	1039	Remote	Saturday	1456	20230128
+Alice	Web_Scraper	282	Mumbai	Tuesday	2038	20230103
+Charlie	Web_Scraper	312	Mumbai	Thursday	0701	20231228
+Alice	API	2906	London	Wednesday	1035	20230614
+Charlie	Manual_Entry	218	Mumbai	Saturday	1106	20231230
+Alice	Manual_Entry	2081	Remote	Sunday	1110	20230806
+Charlie	Manual_Entry	3520	London	Thursday	1624	20230323
+Charlie	Manual_Entry	1616	Mumbai	Thursday	0425	20230309
+Delta_Bot	Manual_Entry	3102	New York	Saturday	2215	20231111
+Delta_Bot	Web_Scraper	1410	New York	Tuesday	2347	20230926
+Alice	API	1769	Remote	Wednesday	0232	20230614
+Bob	Manual_Entry	2397	London	Saturday	2128	20230923
+Alice	API	1480	Mumbai	Wednesday	0839	20230201
+Alice	Manual_Entry	2499	Remote	Monday	0159	20230213
+Bob	API	3258	Mumbai	Saturday	1917	20230211
+Bob	Manual_Entry	1776	Remote	Sunday	2138	20230604
+Bob	API	3015	New York	Monday	1730	20230529
+Charlie	Web_Scraper	2817	London	Thursday	0836	20231207
+Delta_Bot	Manual_Entry	964	Mumbai	Wednesday	0910	20231213
+Charlie	Manual_Entry	2000	London	Friday	0013	20230120
+Bob	Web_Scraper	216	London	Tuesday	1648	20230516
+Delta_Bot	Web_Scraper	2687	Mumbai	Saturday	2339	20230819
+Bob	API	1475	London	Friday	1624	20230609
+Alice	Manual_Entry	53	Mumbai	Friday	0005	20230922
+Bob	Web_Scraper	636	New York	Friday	0118	20231215
+Bob	Web_Scraper	1692	Remote	Thursday	2346	20230126
+Charlie	Manual_Entry	756	Mumbai	Tuesday	0703	20230110
+Alice	API	1728	London	Thursday	1610	20231214
+Bob	API	620	New York	Wednesday	0706	20230125
+Alice	Manual_Entry	1181	New York	Sunday	1532	20230108
+Bob	API	85	Remote	Thursday	1344	20231012
+Bob	API	1828	Remote	Sunday	0533	20230716
+Delta_Bot	Manual_Entry	63	New York	Wednesday	2244	20230111
+Delta_Bot	Manual_Entry	3157	London	Saturday	2321	20230114
+Delta_Bot	Web_Scraper	1567	London	Monday	1724	20230410
+Delta_Bot	Manual_Entry	3134	Mumbai	Tuesday	1314	20231024
+Charlie	API	1356	Remote	Friday	0958	20230901
+Alice	Web_Scraper	3466	London	Sunday	1710	20230924
+Bob	Web_Scraper	288	New York	Thursday	1433	20231102
+Bob	Manual_Entry	1338	Mumbai	Tuesday	0152	20230620
+Alice	API	511	New York	Wednesday	1556	20230419

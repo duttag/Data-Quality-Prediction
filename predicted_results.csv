@@ -1,0 +1,51 @@
+Creator,Source,Duration (sec),Location,Day of Week,Time(HHMM),Date (YYYYMMDD),Hour,Predicted_Label,Status,Confidence_Score,Good_Probability
+Alice,Manual_Entry,1595,Remote,Tuesday,846,20230502,8,1,Good,0.88,0.88
+Alice,API,2173,New York,Friday,807,20230428,8,1,Good,0.95,0.95
+Delta_Bot,Web_Scraper,129,Remote,Tuesday,742,20231121,7,0,Bad,0.94,0.06
+Alice,Web_Scraper,2806,Remote,Thursday,238,20230914,2,1,Good,0.78,0.78
+Alice,Manual_Entry,3571,Remote,Sunday,2148,20231029,21,1,Good,0.92,0.92
+Delta_Bot,API,1118,London,Friday,351,20230519,3,0,Bad,0.67,0.33
+Bob,Web_Scraper,2204,London,Tuesday,1837,20230110,18,1,Good,0.62,0.62
+Alice,Web_Scraper,2292,Mumbai,Sunday,356,20230820,3,1,Good,0.81,0.81
+Alice,Web_Scraper,850,New York,Tuesday,1650,20230801,16,1,Good,0.8,0.8
+Delta_Bot,Manual_Entry,1039,Remote,Saturday,1456,20230128,14,0,Bad,0.84,0.16
+Alice,Web_Scraper,282,Mumbai,Tuesday,2038,20230103,20,1,Good,0.81,0.81
+Charlie,Web_Scraper,312,Mumbai,Thursday,701,20231228,7,0,Bad,0.77,0.23
+Alice,API,2906,London,Wednesday,1035,20230614,10,1,Good,0.96,0.96
+Charlie,Manual_Entry,218,Mumbai,Saturday,1106,20231230,11,0,Bad,0.58,0.42
+Alice,Manual_Entry,2081,Remote,Sunday,1110,20230806,11,1,Good,0.89,0.89
+Charlie,Manual_Entry,3520,London,Thursday,1624,20230323,16,1,Good,0.54,0.54
+Charlie,Manual_Entry,1616,Mumbai,Thursday,425,20230309,4,0,Bad,0.58,0.42
+Delta_Bot,Manual_Entry,3102,New York,Saturday,2215,20231111,22,0,Bad,0.77,0.23
+Delta_Bot,Web_Scraper,1410,New York,Tuesday,2347,20230926,23,0,Bad,0.9,0.1
+Alice,API,1769,Remote,Wednesday,232,20230614,2,1,Good,0.94,0.94
+Bob,Manual_Entry,2397,London,Saturday,2128,20230923,21,1,Good,0.8,0.8
+Alice,API,1480,Mumbai,Wednesday,839,20230201,8,1,Good,0.95,0.95
+Alice,Manual_Entry,2499,Remote,Monday,159,20230213,1,1,Good,0.88,0.88
+Bob,API,3258,Mumbai,Saturday,1917,20230211,19,1,Good,0.89,0.89
+Bob,Manual_Entry,1776,Remote,Sunday,2138,20230604,21,1,Good,0.73,0.73
+Bob,API,3015,New York,Monday,1730,20230529,17,1,Good,0.88,0.88
+Charlie,Web_Scraper,2817,London,Thursday,836,20231207,8,0,Bad,0.69,0.31
+Delta_Bot,Manual_Entry,964,Mumbai,Wednesday,910,20231213,9,0,Bad,0.83,0.17
+Charlie,Manual_Entry,2000,London,Friday,13,20230120,0,0,Bad,0.55,0.45
+Bob,Web_Scraper,216,London,Tuesday,1648,20230516,16,1,Good,0.57,0.57
+Delta_Bot,Web_Scraper,2687,Mumbai,Saturday,2339,20230819,23,0,Bad,0.87,0.13
+Bob,API,1475,London,Friday,1624,20230609,16,1,Good,0.88,0.88
+Alice,Manual_Entry,53,Mumbai,Friday,5,20230922,0,1,Good,0.88,0.88
+Bob,Web_Scraper,636,New York,Friday,118,20231215,1,0,Bad,0.52,0.48
+Bob,Web_Scraper,1692,Remote,Thursday,2346,20230126,23,1,Good,0.56,0.56
+Charlie,Manual_Entry,756,Mumbai,Tuesday,703,20230110,7,0,Bad,0.59,0.41
+Alice,API,1728,London,Thursday,1610,20231214,16,1,Good,0.96,0.96
+Bob,API,620,New York,Wednesday,706,20230125,7,1,Good,0.82,0.82
+Alice,Manual_Entry,1181,New York,Sunday,1532,20230108,15,1,Good,0.9,0.9
+Bob,API,85,Remote,Thursday,1344,20231012,13,1,Good,0.81,0.81
+Bob,API,1828,Remote,Sunday,533,20230716,5,1,Good,0.82,0.82
+Delta_Bot,Manual_Entry,63,New York,Wednesday,2244,20230111,22,0,Bad,0.83,0.17
+Delta_Bot,Manual_Entry,3157,London,Saturday,2321,20230114,23,0,Bad,0.73,0.27
+Delta_Bot,Web_Scraper,1567,London,Monday,1724,20230410,17,0,Bad,0.88,0.12
+Delta_Bot,Manual_Entry,3134,Mumbai,Tuesday,1314,20231024,13,0,Bad,0.78,0.22
+Charlie,API,1356,Remote,Friday,958,20230901,9,1,Good,0.59,0.59
+Alice,Web_Scraper,3466,London,Sunday,1710,20230924,17,1,Good,0.87,0.87
+Bob,Web_Scraper,288,New York,Thursday,1433,20231102,14,1,Good,0.51,0.51
+Bob,Manual_Entry,1338,Mumbai,Tuesday,152,20230620,1,1,Good,0.7,0.7
+Alice,API,511,New York,Wednesday,1556,20230419,15,1,Good,0.95,0.95
