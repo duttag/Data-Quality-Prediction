@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from sklearn.tree import DecisionTreeClassifier, plot_tree
 from sklearn.preprocessing import LabelEncoder
 
-# 1. Load and Prepare Data
+# 1. Load and Prepare Labelled Data
 df = pd.read_csv('sample_data.csv', sep='\t')
 df['Hour'] = df['Time(HHMM)'].apply(lambda x: int(str(x).zfill(4)[:2]))
 
